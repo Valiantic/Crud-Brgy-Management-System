@@ -32,7 +32,7 @@ public class Crud_BrgyManagement {
 	static ArrayList<String> trackingNumbers = new ArrayList<String>();
 	static int totalRevenues = 0;
 	
-	public static void main(String[/* created by Arvee */] args)  throws InterruptedException {
+	public static void main(String[/* created by Valiantic */] args)  throws InterruptedException {
 		while(true) {
 			if(remainingAttempts == 0) {
 				remainingAttempts += 3;
